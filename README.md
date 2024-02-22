@@ -23,7 +23,7 @@ Automatizar el flujo de datos desde Amazon y SharePoint hacia un servidor que ej
 
 - ⁠*Eficiencia:* Reducción del tiempo dedicado a tareas manuales de carga y procesamiento de datos.
 - ⁠*Precisión:* Minimización de errores humanos al automatizar el proceso.
--⁠ ⁠*Mejora de Decisiones:* Acceso rápido a datos actualizados para tomar decisiones informadas.
+- ⁠*Mejora de Decisiones:* Acceso rápido a datos actualizados para tomar decisiones informadas.
 
 ## Resultados Esperados:
 Una solución que optimice la gestión de datos y permita una toma de decisiones más ágil y precisa en la organización.
